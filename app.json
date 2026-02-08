@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Pulse",
+    "slug": "pulse",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["android"],
+    "sdkVersion": "50.0.0",
+    "android": {
+      "package": "com.pulse.app",
+      "versionCode": 1
+    }
+  }
+}
